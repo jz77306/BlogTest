@@ -1,0 +1,5 @@
+# hexo-admin authentification
+admin:
+  username: SunsetRadio
+  password_hash: $2a$10$WXaogHn70xZ3jR7zFnmpq.7JAM056v8EgIvLYpyN6yAJV0jWtcmla
+  secret: my super secret phrase
